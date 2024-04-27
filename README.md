@@ -29,4 +29,4 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correç
 
 ## Autor
 
-[Luan Santos](https://github.com/LuaSant93)
+[Luan Santos](https://luansant1993.github.io/Desafio-CSS/)
