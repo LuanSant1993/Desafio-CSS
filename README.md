@@ -16,7 +16,7 @@ A iniciativa visa consolidar os conhecimentos adquiridos, especialmente em CSS r
 - **style.css:** Arquivo de estilo contendo as regras CSS para estilização.
 - **images/:** Diretório para armazenar imagens utilizadas no projeto.
 
-- Página do Projeto Concluido : https://luasant93.github.io/Desafio-CSS-04/
+- Página do Projeto Concluido : [Clique Aqui](https://luansant1993.github.io/Desafio-CSS/)
 
   ## Como Utilizar
 
@@ -29,4 +29,4 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correç
 
 ## Autor
 
-[Luan Santos](https://luansant1993.github.io/Desafio-CSS/)
+[Luan Santos](https://www.linkedin.com/in/luan-santos-361480257/)
